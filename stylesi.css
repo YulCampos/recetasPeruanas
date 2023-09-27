@@ -1,0 +1,22 @@
+.titulo{
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(153, 104, 59);
+    color: white;
+    padding: 5px;
+}
+.container{
+    display: flex;
+
+}
+.card{
+    margin-left: 30px;
+    margin-left: 30px;
+    justify-content: center;
+}
+.carousel-inner{
+    align-content: center;
+}
+.card text{
+    margin: 50px;
+}
